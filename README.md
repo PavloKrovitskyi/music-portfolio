@@ -1,3 +1,4 @@
+# music-portfolio
 Project name - Vivien Michell 
 Made:
 Full screen blocks of the site, 4 blocks Home, Portfolio, Biography, Contacts
@@ -12,6 +13,6 @@ My contacts:
 
 My work Email pkrovickij@gmail.com
 
-Good day 😉# music-portfolio
-# music-portfolio
-# music-portfolio
+Good day 😉
+
+
